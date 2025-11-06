@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OLED Display")(type "KiCad")(uri "${KIPRJMOD}/OLED Display.pretty")(options "")(descr ""))
+  (lib (name "Temperature Sensor Interface PCB")(type "KiCad")(uri "C:/Users/priya/Desktop/PCB/Temperature Sensor Interface PCB.pretty")(options "")(descr ""))
+  (lib (name "LM358_THT DIP")(type "KiCad")(uri "${KIPRJMOD}/LM358_THT DIP.pretty")(options "")(descr ""))
+)
